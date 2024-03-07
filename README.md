@@ -29,5 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzz-mohit&show_icons=true&locale=en" alt="itzz-mohit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzz-mohit&" alt="itzz-mohit" /></p>
-### Show some ❤️ by starring some of the repositories!
+<p align="center">Show some ❤️ by starring some of the repositories!</p>
 
