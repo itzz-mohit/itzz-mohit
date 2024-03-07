@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
+<h1 align="center"> Hi!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Mohit Kumar</h1>
+<h3 align="center">A passionate frontend developer from India ❤️</h3>
 
 - 🌱 I’m currently learning **Backend With NodeJs**
 
@@ -22,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzz-mohit&show_icons=true&locale=en" alt="itzz-mohit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzz-mohit&" alt="itzz-mohit" /></p>
+### Show some ❤️ by starring some of the repositories!
+
