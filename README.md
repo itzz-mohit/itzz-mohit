@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<br>
 
 - 🌱 I’m currently learning **Backend With NodeJs**
 
