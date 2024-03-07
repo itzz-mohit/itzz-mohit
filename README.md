@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend With NodeJs**
 
-- 💬 Ask me about **JavaScript ReactJs**
+- 💬 Ask me about **JavaScript || ReactJs**
 
 - 📫 How to reach me **mohitbite@gmail.com**
 
