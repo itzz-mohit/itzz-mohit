@@ -8,7 +8,7 @@
          width="45" /> I'm Mohit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India ❤️</h3>
 
-- 🌱 I’m currently learning **Backend With NodeJs**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **JavaScript || ReactJs**
 
